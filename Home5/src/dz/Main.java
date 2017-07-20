@@ -6,6 +6,8 @@ public class Main {
 		// TODO Auto-generated method stub
 		// TODO Auto-generated method stub
 		// TODO Auto-generated method stub
+		System.out.println("wwwwww");
+		System.out.println("tttttt");
 	}
 
 }
